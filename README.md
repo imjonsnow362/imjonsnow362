@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm Akshat, a full-time software engineering intern 👨‍💻</div>  
+### <div align="center">I'm Akshat, a full-time software engineer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working at IdeaS Revenue Solutions.  
+- 🔭 I’m currently working at Townhall a BookMyShow Company.  
   
 
-- 🌱 I’m currently learning Spring Boot  
+- 🌱 I’m currently learning Angular
   
 
-- ❓ Ask me about anything related to Blockchain  
+- ❓ Ask me about anything related to Angular 
   
 
 - ⚡ Fun fact: I use tabs over spaces  
