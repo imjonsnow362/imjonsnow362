@@ -6,7 +6,7 @@
 ### <div align="center">I'm Akshat, a full-time software engineer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working at Townhall a BookMyShow Company.  
+- 🔭 I’m currently working at BookMyShow Group.  
   
 
 - 🌱 I’m currently learning Angular
